@@ -46,10 +46,10 @@ class AssinanteTwitter(StreamListener):
 
 
 # dados de autenticação
-consumer_key = "uQgto5Xx5sSPXDEp2DZQYQ6j6"
-consumer_secret = "5rrNCqxj0SZdUjW4fsiS40cG1bqyuADpjJzGkrX1ZEJ2iV0yrO"
-access_token = "255099556-mbGTmFO0Ll4i10Gbn6A2SLbCjrjhTYYVNiZMwZME"
-access_token_secret = "v3CqmYpziKOxjks0IhT9LLFqJj4R3tog9mrRDptooLW0X"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret = ""
 
 # Para executar esse exemplo Ã© preciso possuir uma conta no twitter, caso nÃ£o possua crie uma.
 # Entre no site http://apps.twitter.com e crie uma nova applicaÃ§Ã£o preenchendo as informaÃ§Ãµes
